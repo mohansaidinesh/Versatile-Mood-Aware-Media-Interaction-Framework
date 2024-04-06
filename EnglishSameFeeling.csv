@@ -1,0 +1,501 @@
+Emotion,Song,Old/New,Movie/Artist
+Angry,Hail To The King,new,Avenged Sevenfold
+Angry,Bloody Mary,new,Lady Gaga
+Angry,Hard Times,new,Paramore
+Angry,Radioactive,new,Imagine Dragons
+Angry,Warrior,new,Imagine Dragons
+Angry,Bad Guy,new,Billie Eilish
+Angry,Black Skinhead,new,Kanye West
+Angry,Kill This Love,new,BLACKPINK
+Angry,Run the World (Girls),new,Beyoncé
+Angry,Enemy (Imagine Dragons feat. JID),new,Imagine Dragons & JID
+Angry,Kickstart My Heart,old,Mötley Crüe
+Angry,Smells Like Teen Spirit,old,Nirvana
+Angry,One Step Beyond,old,Madness
+Angry,Born To Be Wild,old,Steppenwolf
+Angry,Mama Said Knock You Out,old,LL Cool J
+Angry,Should I Stay Or Go?,old,The Clash
+Angry,Get Up (I Feel Like Being a) Sex Machine,old,James Brown
+Angry,Barracuda,old,Heart
+Angry,Gimme Shelter,old,The Rolling Stones
+Angry,Fight Song,old,Rachel Platten
+Anxiety,Sober,new,Lorde
+Anxiety,anxiety (how to dress in fear),new,The Wombats
+Anxiety,Happier Than Ever,new,Billie Eilish
+Anxiety,Run,new,Woodkid
+Anxiety,My Tears Are Beacons,new,Mitski
+Anxiety,Blinding Lights,new,The Weeknd
+Anxiety,Carry On Wayward Son (cover),new,P!nk
+Anxiety,When the Party's Over,new,Billie Eilish
+Anxiety,Stressed Out,new,Twenty One Pilots
+Anxiety,Fake Plastic Trees,old,Radiohead
+Anxiety,The Wall,old,Pink Floyd
+Anxiety,Basket Case,old,Green Day
+Anxiety,Everybody Hurts,old,R.E.M.
+Anxiety,Creep,old,Radiohead
+Anxiety,Don't Look Back,old,Oasis
+Anxiety,Bohemian Rhapsody,old,Queen
+Anxiety,Hurt,old,Nine Inch Nails
+Anxiety,Hallelujah,old,Leonard Cohen
+Anxiety,Mr. Brightside,old,The Killers
+Anxiety,Losing My Religion,old,R.E.M.
+Confusion,Don't Know Why ,old, Norah Jones
+Confusion, The Logical Song ,old, Supertramp
+Confusion, I'm Not in Love ,old, 10cc
+Confusion, Bohemian Rhapsody ,old, Queen
+Confusion, Stairway to Heaven ,old, Led Zeppelin
+Confusion, Hotel California ,old, Eagles
+Confusion, Imagine ,old, John Lennon
+Confusion, Sweet Home Alabama ,old, Lynyrd Skynyrd
+Confusion, American Pie ,old, Don McLean
+Confusion, Layla ,old, Derek and the Dominos
+Confusion,All of Me ,new, John Legend
+Confusion, Thinking Out Loud ,new, Ed Sheeran
+Confusion, Love on Top ,new, Beyonc�
+Confusion, Perfect ,new, Ed Sheeran
+Confusion, I Don't Want to Miss a Thing ,new, Aerosmith
+Confusion, A Thousand Years ,new, Christina Perri
+Confusion, Love Story ,new, Taylor Swift
+Confusion, Just the Way You Are ,new, Bruno Mars
+Confusion, Marry Me ,new, Train
+Confusion, I Choose You ,new, Sara Bareilles
+Devotion,  I Will Always Love You ,old, Whitney Houston
+Devotion, Unchained Melody ,old, The Righteous Brothers
+Devotion, My Girl ,old, The Temptations
+Devotion, Can't Help Falling in Love ,old, Elvis Presley
+Devotion, The Power of Love ,old, Celine Dion
+Devotion, I Don't Want to Miss a Thing ,old, Aerosmith
+Devotion, Endless Love ,old, Diana Ross and Lionel Richie
+Devotion, When a Man Loves a Woman ,old, Percy Sledge
+Devotion, Nothing's Gonna Change My Love for You ,old, Glenn Medeiros
+Devotion, The Rose ,old, Bette Midler
+Devotion,All of Me ,new, John Legend
+Devotion, Thinking Out Loud ,new, Ed Sheeran
+Devotion, Love on Top ,new, Beyonc�
+Devotion, Perfect ,new, Ed Sheeran
+Devotion, I Don't Want to Miss a Thing ,new, Aerosmith
+Devotion, A Thousand Years ,new, Christina Perri
+Devotion, Love Story ,new, Taylor Swift
+Devotion, Just the Way You Are ,new, Bruno Mars
+Devotion, Marry Me ,new, Train
+Devotion, I Choose You ,new, Sara Bareilles
+Disgust,I Will Remember You ,old, Sarah McLachlan
+Disgust, Everybody Hurts ,old, R.E.M.
+Disgust, Tears in Heaven ,old, Eric Clapton
+Disgust, What a Wonderful World ,old, Louis Armstrong
+Disgust, Bridge Over Troubled Water ,old, Simon & Garfunkel
+Disgust, The Sound of Silence ,old, Simon & Garfunkel
+Disgust, Yesterday ,old, The Beatles
+Disgust, Wish You Were Here ,old, Pink Floyd
+Disgust, Time ,old, Pink Floyd
+Disgust, Comfortably Numb ,old, Pink Floyd
+Disgust,Sorry ,new, Justin Bieber
+Disgust, Love Yourself ,new, Justin Bieber
+Disgust, Stressed Out ,new, Twenty One Pilots
+Disgust, Heathens ,new, Twenty One Pilots
+Disgust, Ride ,new, Twenty One Pilots
+Disgust, Heavy ,new, Linkin Park ft. Kiiara
+Disgust, Numb ,new, Linkin Park
+Disgust, Crawling ,new, Linkin Park
+Disgust, In the End ,new, Linkin Park
+Disgust, What I've Done ,new, Linkin Park
+Excitement,Don't Stop Believin' ,old, Journey
+Excitement, Eye of the Tiger ,old, Survivor
+Excitement, Livin' on a Prayer ,old, Bon Jovi
+Excitement, Sweet Child o' Mine ,old, Guns N' Roses
+Excitement, Jump ,old, Van Halen
+Excitement, You Shook Me All Night Long ,old, AC/DC
+Excitement, Pour Some Sugar on Me ,old, Def Leppard
+Excitement, Crazy Train ,old, Ozzy Osbourne
+Excitement, I Want to Break Free ,old, Queen
+Excitement, The Final Countdown ,old, Europe
+Excitement,Uptown Funk ,new, Mark Ronson ft. Bruno Mars
+Excitement, Can't Stop the Feeling! ,new, Justin Timberlake
+Excitement, Happy ,new, Pharrell Williams
+Excitement, Shut Up and Dance ,new, Walk the Moon
+Excitement, Shape of You ,new, Ed Sheeran
+Excitement, Can't Hold Us ,new, Macklemore & Ryan Lewis ft. Ray Dalton
+Excitement, Sugar ,new, Maroon 5
+Excitement, Blinding Lights ,new, The Weeknd
+Excitement, Dynamite ,new, BTS
+Excitement, Levitating ,new, Dua Lipa
+Fear,Thriller ,old, Michael Jackson
+Fear, Highway to Hell ,old, AC/DC
+Fear, Sympathy for the Devil ,old, The Rolling Stones
+Fear, Bad Moon Rising ,old, Creedence Clearwater Revival
+Fear, Black Sabbath ,old, Black Sabbath
+Fear, The Number of the Beast ,old, Iron Maiden
+Fear, Run to the Hills ,old, Iron Maiden
+Fear, Enter Sandman ,old, Metallica
+Fear, The Devil Went Down to Georgia ,old, The Charlie Daniels Band
+Fear, Hells Bells ,old, AC/DC
+Fear,Bad Guy ,new, Billie Eilish
+Fear, Bury a Friend ,new, Billie Eilish
+Fear, You Should See Me in a Crown ,new, Billie Eilish
+Fear, When the Party's Over ,new, Billie Eilish
+Fear, Godzilla ,new, Eminem ft. Juice WRLD
+Fear, The Real Slim Shady ,new, Eminem
+Fear, Without Me ,new, Eminem
+Fear, Lose Yourself ,new, Eminem
+Fear, Sicko Mode ,new, Travis Scott
+Fear, Goosebumps ,new, Travis Scott
+Guilt,The Living Years ,old, Mike + The Mechanics
+Guilt, I Will Remember You ,old, Sarah McLachlan
+Guilt, Everybody Hurts ,old, R.E.M.
+Guilt, Tears in Heaven ,old, Eric Clapton
+Guilt, What a Wonderful World ,old, Louis Armstrong
+Guilt, Bridge Over Troubled Water ,old, Simon & Garfunkel
+Guilt, The Sound of Silence ,old, Simon & Garfunkel
+Guilt, Yesterday ,old, The Beatles
+Guilt, Let It Be ,old, The Beatles
+Guilt, Imagine ,old, John Lennon
+Guilt,Sorry ,new, Justin Bieber
+Guilt, Love Yourself ,new, Justin Bieber
+Guilt, Stressed Out ,new, Twenty One Pilots
+Guilt, Heathens ,new, Twenty One Pilots
+Guilt, Ride ,new, Twenty One Pilots
+Guilt, Heavy ,new, Linkin Park ft. Kiiara
+Guilt, Numb ,new, Linkin Park
+Guilt, Crawling ,new, Linkin Park
+Guilt, In the End ,new, Linkin Park
+Guilt, What I've Done ,new, Linkin Park
+Hatred, Break Stuff ,old, Limp Bizkit
+Hatred, F*** tha Police ,old, N.W.A
+Hatred, Killing in the Name ,old, Rage Against the Machine
+Hatred, Bulls on Parade ,old, Rage Against the Machine
+Hatred, Smells Like Teen Spirit ,old, Nirvana
+Hatred, Enter Sandman ,old, Metallica
+Hatred, The Beautiful People ,old, Marilyn Manson
+Hatred, Sabotage ,old, Beastie Boys
+Hatred, Welcome to the Jungle ,old, Guns N' Roses
+Hatred, You Could Be Mine ,old, Guns N' Roses
+Hatred,Bad Guy ,new, Billie Eilish
+Hatred, Bury a Friend ,new, Billie Eilish
+Hatred, You Should See Me in a Crown ,new, Billie Eilish
+Hatred, When the Party's Over ,new, Billie Eilish
+Hatred, The Search ,new, NF
+Hatred, Godzilla ,new, Eminem ft. Juice WRLD
+Hatred, The Real Slim Shady ,new, Eminem
+Hatred, Without Me ,new, Eminem
+Hatred, Sicko Mode ,new, Travis Scott
+Hatred, Goosebumps ,new, Travis Scott
+Horror,Thriller ,old, Michael Jackson
+Horror, Highway to Hell ,old, AC/DC
+Horror, Sympathy for the Devil ,old, The Rolling Stones
+Horror, Bad Moon Rising ,old, Creedence Clearwater Revival
+Horror, Black Sabbath ,old, Black Sabbath
+Horror, The Number of the Beast ,old, Iron Maiden
+Horror, Run to the Hills ,old, Iron Maiden
+Horror, Enter Sandman ,old, Metallica
+Horror, The Devil Went Down to Georgia ,old, The Charlie Daniels Band
+Horror, Hells Bells ,old, AC/DC
+Horror,Bad Guy ,new, Billie Eilish
+Horror, Bury a Friend ,new, Billie Eilish
+Horror, You Should See Me in a Crown ,new, Billie Eilish
+Horror, When the Party's Over ,new, Billie Eilish
+Horror, Godzilla ,new, Eminem ft. Juice WRLD
+Horror, The Real Slim Shady ,new, Eminem
+Horror, Without Me ,new, Eminem
+Horror, Lose Yourself ,new, Eminem
+Horror, Sicko Mode ,new, Travis Scott
+Horror, Goosebumps ,new, Travis Scott
+Interest,  Bohemian Rhapsody ,old, Queen
+Interest, Stairway to Heaven ,old, Led Zeppelin
+Interest, Hotel California ,old, Eagles
+Interest, Imagine ,old, John Lennon
+Interest, Sweet Home Alabama ,old, Lynyrd Skynyrd
+Interest, American Pie ,old, Don McLean
+Interest, Layla ,old, Derek and the Dominos
+Interest, Comfortably Numb ,old, Pink Floyd
+Interest, Free Bird ,old, Lynyrd Skynyrd
+Interest, The Weight ,old, The Band
+Interest,Blinding Lights ,new, The Weeknd
+Interest, Dance Monkey ,new, Tones and I
+Interest, Shape of You ,new, Ed Sheeran
+Interest, Uptown Funk ,new, Mark Ronson ft. Bruno Mars
+Interest, Can't Stop the Feeling! ,new, Justin Timberlake
+Interest, Happy ,new, Pharrell Williams
+Interest, Shallow ,new, Lady Gaga and Bradley Cooper
+Interest, All of Me ,new, John Legend
+Interest, Thinking Out Loud ,new, Ed Sheeran
+Interest, Love on Top ,new, Beyonc�
+Joy, Don't Stop Believin' ,old, Journey
+Joy, Sweet Child o' Mine ,old, Guns N' Roses
+Joy, Livin' on a Prayer ,old, Bon Jovi
+Joy, I Want to Hold Your Hand ,old, The Beatles
+Joy, Brown Eyed Girl ,old, Van Morrison
+Joy, Twist and Shout ,old, The Beatles
+Joy, Build Me Up Buttercup ,old, The Foundations
+Joy, Can't Take My Eyes Off You ,old, Frankie Valli
+Joy, My Girl ,old, The Temptations
+Joy, Ain't No Mountain High Enough ,old, Marvin Gaye and Tammi Terrell
+Joy,Can't Stop the Feeling! ,new, Justin Timberlake
+Joy, Happy ,new, Pharrell Williams
+Joy, Uptown Funk ,new, Mark Ronson ft. Bruno Mars
+Joy, Blinding Lights ,new, The Weeknd
+Joy, Shut Up and Dance ,new, Walk the Moon
+Joy, Shape of You ,new, Ed Sheeran
+Joy, Can't Hold Us ,new, Macklemore & Ryan Lewis ft. Ray Dalton
+Joy, Sugar ,new, Maroon 5
+Joy, Dynamite ,new, BTS
+Joy, Levitating ,new, Dua Lipa
+Kindness,What a Wonderful World ,old, Louis Armstrong
+Kindness, Lean on Me ,old, Bill Withers
+Kindness, Put a Little Love in Your Heart ,old, Jackie DeShannon
+Kindness, He Ain't Heavy He's My Brother ,old, The Hollies
+Kindness, You've Got a Friend ,old, James Taylor
+Kindness, Bridge Over Troubled Water ,old, Simon & Garfunkel
+Kindness, Imagine ,old, John Lennon
+Kindness, We Are the World ,old, USA for Africa
+Kindness, Give Peace a Chance ,old, John Lennon
+Kindness, All You Need Is Love ,old, The Beatles
+Kindness,Love on Top ,new, Beyonc�
+Kindness, I Choose You ,new, Sara Bareilles
+Kindness, Count on Me ,new, Bruno Mars
+Kindness, Brave ,new, Sara Bareilles
+Kindness, Better Together ,new, Jack Johnson
+Kindness, I'm Yours ,new, Jason Mraz
+Kindness, You Are the Best Thing ,new, Ray LaMontagne
+Kindness, Just the Way You Are ,new, Bruno Mars
+Kindness, Beautiful ,new, Christina Aguilera
+Kindness, Stronger Together ,new, Jon Batiste
+Love,I Will Always Love You ,old, Whitney Houston
+Love, Unchained Melody ,old, The Righteous Brothers
+Love, My Girl ,old, The Temptations
+Love, Can't Help Falling in Love ,old, Elvis Presley
+Love, The Power of Love ,old, Celine Dion
+Love, I Don't Want to Miss a Thing ,old, Aerosmith
+Love, Endless Love ,old, Diana Ross and Lionel Richie
+Love, When a Man Loves a Woman ,old, Percy Sledge
+Love, Nothing's Gonna Change My Love for You ,old, Glenn Medeiros
+Love, The Rose ,old, Bette Midler
+Love,All of Me ,new, John Legend
+Love, Thinking Out Loud ,new, Ed Sheeran
+Love, Love on Top ,new, Beyonc�
+Love, Perfect ,new, Ed Sheeran
+Love, I Don't Want to Miss a Thing ,new, Aerosmith
+Love, A Thousand Years ,new, Christina Perri
+Love, Love Story ,new, Taylor Swift
+Love, Just the Way You Are ,new, Bruno Mars
+Love, Marry Me ,new, Train
+Love , I Choose You ,new, Sara Bareilles
+Patience,Patience ,old, Guns N' Roses
+Patience, Right Here Waiting ,old, Richard Marx
+Patience, Time Is on My Side ,old, The Rolling Stones
+Patience, The Waiting ,old, Tom Petty and the Heartbreakers
+Patience, Tired of Waiting for You ,old, The Kinks
+Patience, Don't Stop Believin' ,old, Journey
+Patience, The Long and Winding Road ,old, The Beatles
+Patience, I Will Wait ,old, Mumford & Sons
+Patience, Waiting for a Girl Like You ,old, Foreigner
+Patience, Waiting on the World to Change ,old, John Mayer
+Patience,Patience ,new, Tame Impala
+Patience, Lost in Japan ,new, Shawn Mendes
+Patience, In My Blood ,new, Shawn Mendes
+Patience, Mercy ,new, Shawn Mendes
+Patience, Treat You Better ,new, Shawn Mendes
+Patience, Bad Liar ,new, Imagine Dragons
+Patience, Believer ,new, Imagine Dragons
+Patience, Thunder ,new, Imagine Dragons
+Patience, Demons ,new, Imagine Dragons
+Patience, Radioactive ,new, Imagine Dragons
+Pity,Everybody Hurts ,old, R.E.M.
+Pity, Tears in Heaven ,old, Eric Clapton
+Pity, What a Wonderful World ,old, Louis Armstrong
+Pity, Bridge Over Troubled Water ,old, Simon & Garfunkel
+Pity, The Sound of Silence ,old, Simon & Garfunkel
+Pity, Eleanor Rig ,old, The Beatles
+Pity, Yesterday ,old, The Beatles
+Pity, Wish You Were Here ,old, Pink Floyd
+Pity, Time ,old, Pink Floyd
+Pity, Comfortably Numb ,old, Pink Floyd
+Pity,Breathe Me ,new, Sia
+Pity, Chandelier ,new, Sia
+Pity, Elastic Heart ,new, Sia
+Pity, The Greatest ,new, Sia
+Pity, Broken ,new, Lovelytheband
+Pity, Someone You Loved ,new, Lewis Capaldi
+Pity, Say You Love Me ,new, Jessie Ware
+Pity, Stay ,new, Rihanna ft. Mikky Ekko
+Pity, Jealous ,new, Labrinth
+Pity, Sorry ,new, Justin Bieber
+Romance,Unchained Melody ,old, The Righteous Brothers
+Romance, My Girl ,old, The Temptations
+Romance, Can't Help Falling in Love ,old, Elvis Presley
+Romance, The Power of Love ,old, Celine Dion
+Romance, Endless Love ,old, Diana Ross and Lionel Richie
+Romance, When a Man Loves a Woman ,old, Percy Sledge
+Romance, Nothing's Gonna Stop Us Now ,old, Starship
+Romance, I Want to Know What Love Is ,old, Foreigner
+Romance, The Rose ,old, Bette Midler
+Romance, I Will Always Love You ,old, Whitney Houston
+Romance,Love on Top ,new, Beyonc�
+Romance, All of Me ,new, John Legend
+Romance, Thinking Out Loud ,new, Ed Sheeran
+Romance, Perfect ,new, Ed Sheeran
+Romance, Love Story ,new, Taylor Swift
+Romance, Marry Me ,new, Train
+Romance, I Choose You ,new, Sara Bareilles
+Romance, Just the Way You Are ,new, Bruno Mars
+Romance, A Thousand Years ,new, Christina Perri
+Romance, I Don't Want to Miss a Thing ,new, Aerosmith
+Sadness,Everybody Hurts ,old, R.E.M.
+Sadness, Tears in Heaven ,old, Eric Clapton
+Sadness, What a Wonderful World ,old, Louis Armstrong
+Sadness, Bridge Over Troubled Water ,old, Simon & Garfunkel
+Sadness, The Sound of Silence ,old, Simon & Garfunkel
+Sadness, Eleanor Rig ,old, The Beatles
+Sadness, Yesterday ,old, The Beatles
+Sadness, Wish You Were Here ,old, Pink Floyd
+Sadness, Time ,old, Pink Floyd
+Sadness, Comfortably Numb ,old, Pink Floyd
+Sadness,Bad Guy ,new, Billie Eilish
+Sadness, Bury a Friend ,new, Billie Eilish
+Sadness, You Should See Me in a Crown ,new, Billie Eilish
+Sadness, When the Party's Over ,new, Billie Eilish
+Sadness, Godzilla ,new, Eminem ft. Juice WRLD
+Sadness, The Real Slim Shady ,new, Eminem
+Sadness, Without Me ,new, Eminem
+Sadness, Lose Yourself ,new, Eminem
+Sadness, Sicko Mode ,new, Travis Scott
+Sadness, Goosebumps ,new, Travis Scott
+Satisfaction,(I Can't Get No) Satisfaction ,old, The Rolling Stones
+Satisfaction, Ain't No Mountain High Enough ,old, Marvin Gaye and Tammi Terrell
+Satisfaction, I Want You Back ,old, The Jackson 5
+Satisfaction, Respect ,old, Aretha Franklin
+Satisfaction, My Girl ,old, The Temptations
+Satisfaction, I Will Survive ,old, Gloria Gaynor
+Satisfaction, Stayin' Alive ,old, Bee Gees
+Satisfaction, I'm Coming Out ,old, Diana Ross
+Satisfaction, I Will Always Love You ,old, Whitney Houston
+Satisfaction, I'm Every Woman ,old, Chaka Khan
+Satisfaction,Blinding Lights ,new, The Weeknd
+Satisfaction, Dance Monkey ,new, Tones and I
+Satisfaction, Shape of You ,new, Ed Sheeran
+Satisfaction, Uptown Funk ,new, Mark Ronson ft. Bruno Mars
+Satisfaction, Can't Stop the Feeling! ,new, Justin Timberlake
+Satisfaction, Happy ,new, Pharrell Williams
+Satisfaction, Shallow ,new, Lady Gaga and Bradley Cooper
+Satisfaction, All of Me ,new, John Legend
+Satisfaction, Thinking Out Loud ,new, Ed Sheeran
+Satisfaction, Love on Top ,new, Beyonc�
+Shame,I Will Remember You ,old, Sarah McLachlan
+Shame, Everybody Hurts ,old, R.E.M.
+Shame, Tears in Heaven ,old, Eric Clapton
+Shame, What a Wonderful World ,old, Louis Armstrong
+Shame, Bridge Over Troubled Water ,old, Simon & Garfunkel
+Shame, The Sound of Silence ,old, Simon & Garfunkel
+Shame, Yesterday ,old, The Beatles
+Shame, Wish You Were Here ,old, Pink Floyd
+Shame, Time ,old, Pink Floyd
+Shame, Comfortably Numb ,old, Pink Floyd
+Shame,Sorry ,new, Justin Bieber
+Shame, Love Yourself ,new, Justin Bieber
+Shame, Stressed Out ,new, Twenty One Pilots
+Shame, Heathens ,new, Twenty One Pilots
+Shame, Ride ,new, Twenty One Pilots
+Shame, Heavy ,new, Linkin Park ft. Kiiara
+Shame, Numb ,new, Linkin Park
+Shame, Crawling ,new, Linkin Park
+Shame, In the End ,new, Linkin Park
+Shame, What I've Done ,new, Linkin Park
+Shyness,I Want to Hold Your Hand ,old, The Beatles
+Shyness, Can't Help Falling in Love ,old, Elvis Presley
+Shyness, My Girl ,old, The Temptations
+Shyness, Unchained Melody ,old, The Righteous Brothers
+Shyness, I Will Always Love You ,old, Whitney Houston
+Shyness, I'm Every Woman ,old, Chaka Khan
+Shyness, I Say a Little Prayer ,old, Dionne Warwick
+Shyness, The Way You Look Tonight ,old, Frank Sinatra
+Shyness, Moon River ,old, Andy Williams
+Shyness, The Way We Were ,old, Barbra Streisand
+Shyness,Someone Like You ,new, Adele
+Shyness, Hello ,new, Adele
+Shyness, Love on the Brain ,new, Rihanna
+Shyness, Stay ,new, Rihanna ft. Mikky Ekko
+Shyness, Say You Love Me ,new, Jessie Ware
+Shyness, All of Me ,new, John Legend
+Shyness, Thinking Out Loud ,new, Ed Sheeran
+Shyness, Perfect ,new, Ed Sheeran
+Shyness, Love on Top ,new, Beyonc�
+Shyness, I Choose You ,new, Sara Bareilles
+Suffering,What a Wonderful World ,old, Louis Armstrong
+Suffering, Bridge Over Troubled Water ,old, Simon & Garfunkel
+Suffering, The Sound of Silence ,old, Simon & Garfunkel
+Suffering, Yesterday ,old, The Beatles.
+Suffering, Wish You Were Here ,old, Pink Floyd.
+Suffering, Time ,old, Pink Floyd.
+Suffering, Comfortably Numb ,old, Pink Floyd.
+Suffering, Everybody Hurts ,old, R.E.M..
+Suffering, Tears in Heaven ,old, Eric Clapton.
+Suffering, The Rose ,old, Bette Midler.
+Suffering,Bad Guy ,new, Billie Eilish.
+Suffering, Bury a Friend ,new, Billie Eilish.
+Suffering, You Should See Me in a Crown ,new, Billie Eilish.
+Suffering, When the Party's Over ,new, Billie Eilish.
+Suffering, Godzilla ,new, Eminem ft. Juice WRLD.
+Suffering, The Real Slim Shady ,new, Eminem.
+Suffering, Without Me ,new, Eminem.
+Suffering, Lose Yourself ,new, Eminem.
+Suffering, Sicko Mode ,new, Travis Scott.
+Suffering, Goosebumps ,new, Travis Scott.
+Surprise,Surprise Surprise ,old, Sweet Bird of Paradox
+Surprise, No Surprises ,old, Radiohead
+Surprise, Take a Bow ,old, Rihanna
+Surprise, The Myth of Trust ,old, Billy Bragg
+Surprise, Apologize ,old, OneRepublic
+Surprise, Say My Name ,old, Destiny's Child
+Surprise, I Want to Hold Your Hand ,old, The Beatles
+Surprise, Can't Help Falling in Love ,old, Elvis Presley
+Surprise, My Girl ,old, The Temptations
+Surprise, Unchained Melody ,old, The Righteous Brothers
+Surprise,Toxic ,new, Kehlani
+Surprise, No Suprizes ,new, Luka Bloom
+Surprise, Sister Surprise ,new, Gary Numan
+Surprise, Should Have Known Better ,new, Sufjan Stevens
+Surprise, Surprise Yourself ,new, Jack Garratt
+Surprise, Surprise Me ,new, Mahalia
+Surprise, Surprise Me ,new, Sophie Ellis-Bextor
+Surprise, Surprise Me ,new, Ruben
+Surprise, Surprise Me ,new, Thea Gilmore
+Surprise, Surprise Me ,new, Thea Gilmore
+Sympathy,Everybody Hurts ,old, R.E.M..
+Sympathy, Tears in Heaven ,old, Eric Clapton
+Sympathy, What a Wonderful World ,old, Louis Armstrong.
+Sympathy, Bridge Over Troubled Water ,old, Simon & Garfunkel.
+Sympathy, The Sound of Silence ,old, Simon & Garfunkel.
+Sympathy, Yesterday ,old, The Beatles.
+Sympathy, Wish You Were Here ,old, Pink Floyd.
+Sympathy, Time ,old, Pink Floyd.
+Sympathy, Comfortably Numb ,old, Pink Floyd.
+Sympathy, The Rose ,old, Bette Midler.
+Sympathy,Breathe Me ,new, Sia.
+Sympathy, Chandelier ,new, Sia.
+Sympathy, Elastic Heart ,new, Sia.
+Sympathy, The Greatest ,new, Sia.
+Sympathy, Broken ,new, Lovelytheband.
+Sympathy, Someone You Loved ,new, Lewis Capaldi.
+Sympathy, Say You Love Me ,new, Jessie Ware.
+Sympathy, Stay ,new, Rihanna ft. Mikky Ekko.
+Sympathy, Jealous ,new, Labrinth.
+Sympathy, Sorry ,new, Justin Bieber
+Trust,Trust in Me ,old, Etta James
+Trust,No Surprises ,old, Radiohead
+Trust,Say My Name ,old, Destiny's Child
+Trust,The Myth of Trust ,old, Billy Bragg
+Trust,Apologize ,old, OneRepublic
+Trust,Should Have Known Better ,old, Sufjan Stevens
+Trust,Take It All ,old, Adele
+Trust,Bad Religion ,old, Frank Ocean
+Trust,The Weight of Lies ,old, The Avett Brothers
+Trust, I Will Remember You ,old," Sarah McLachlan"""""""
+Trust,Trust Nobody ,new, The D4
+Trust,Toxic ,new, Kehlani
+Trust, Trust Issues ,new, Drake
+Trust, Trust My Lonely ,new, Alessia Cara
+Trust, Trust ,new, Brent Faiyaz
+Trust, Trust ,new, Buju Banton
+Trust, Trust ,new, Justin Bieber ft. Chance the Rapper
+Trust, Trust ,new, Tate McRae
+Trust, Trust ,new, Trippie Redd ft. XXXTENTACION
+Trust,Trust ,new, YoungBoy Never Broke Again
